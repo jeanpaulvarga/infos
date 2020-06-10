@@ -124,6 +124,16 @@ $( document ).ready(function() {
     $('.outer-nav').children().eq(nextPos).addClass('is-active');
 
   }
+  
+  
+  function df() {
+
+  const dfMessenger = document.querySelector('df-messenger');
+
+  }
+
+  
+  
 
   // update main content area
   function updateContent(curPos, nextPos, lastItem) {
